@@ -1,0 +1,15 @@
+C:\Users\KIIT\OneDrive\Desktop\Library Book Manager\LibraryBookManager\bin\Debug\net9.0\LibraryBookManager.exe
+C:\Users\KIIT\OneDrive\Desktop\Library Book Manager\LibraryBookManager\bin\Debug\net9.0\LibraryBookManager.deps.json
+C:\Users\KIIT\OneDrive\Desktop\Library Book Manager\LibraryBookManager\bin\Debug\net9.0\LibraryBookManager.runtimeconfig.json
+C:\Users\KIIT\OneDrive\Desktop\Library Book Manager\LibraryBookManager\bin\Debug\net9.0\LibraryBookManager.dll
+C:\Users\KIIT\OneDrive\Desktop\Library Book Manager\LibraryBookManager\bin\Debug\net9.0\LibraryBookManager.pdb
+C:\Users\KIIT\OneDrive\Desktop\Library Book Manager\LibraryBookManager\obj\Debug\net9.0\LibraryBookManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\OneDrive\Desktop\Library Book Manager\LibraryBookManager\obj\Debug\net9.0\LibraryBookManager.AssemblyInfoInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\Library Book Manager\LibraryBookManager\obj\Debug\net9.0\LibraryBookManager.AssemblyInfo.cs
+C:\Users\KIIT\OneDrive\Desktop\Library Book Manager\LibraryBookManager\obj\Debug\net9.0\LibraryBookManager.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\Library Book Manager\LibraryBookManager\obj\Debug\net9.0\LibraryBookManager.sourcelink.json
+C:\Users\KIIT\OneDrive\Desktop\Library Book Manager\LibraryBookManager\obj\Debug\net9.0\LibraryBookManager.dll
+C:\Users\KIIT\OneDrive\Desktop\Library Book Manager\LibraryBookManager\obj\Debug\net9.0\refint\LibraryBookManager.dll
+C:\Users\KIIT\OneDrive\Desktop\Library Book Manager\LibraryBookManager\obj\Debug\net9.0\LibraryBookManager.pdb
+C:\Users\KIIT\OneDrive\Desktop\Library Book Manager\LibraryBookManager\obj\Debug\net9.0\LibraryBookManager.genruntimeconfig.cache
+C:\Users\KIIT\OneDrive\Desktop\Library Book Manager\LibraryBookManager\obj\Debug\net9.0\ref\LibraryBookManager.dll
